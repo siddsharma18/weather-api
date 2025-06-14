@@ -39,3 +39,11 @@ watchfiles==1.0.5
 websockets==15.0.1
 
 numpy==1.26.4
+
+pandas==2.2.2
+
+scikit-learn==1.4.2
+python-dateutil==2.9.0
+aiofiles==23.2.1
+python-jose==3.3.0
+passlib[bcrypt]==1.7.4
