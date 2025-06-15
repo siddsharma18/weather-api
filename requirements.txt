@@ -47,5 +47,5 @@ python-dateutil==2.9.0
 aiofiles==23.2.1
 python-jose==3.3.0
 passlib[bcrypt]==1.7.4
-setuptools==68.2.2
+setuptools==65.5.0
 cython==0.29.36
